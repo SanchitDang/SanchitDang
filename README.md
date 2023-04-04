@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanchit Dang</h1>
 <h3 align="center">A Passionate Android Developer.</h3>
 
-- 🔭 I’m currently working on **GoRide App**
+- 🔭 I’m currently working on **Riding App**
 
 - 🌱 Additionally **I contribute to open source software outside of their regular job responsibilities.**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanchitdang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchitdang" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanchitdang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanchitdang" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanchitdang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanchit_dang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
