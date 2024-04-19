@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanchit Dang</h1>
-<h3 align="center">A Passionate Android Developer.</h3>
+<h3 align="center">A Passionate Software Development Engineer.</h3>
 
 - 🔭 I’m currently working on **Riding App**
 
-- 🌱 Additionally **I contribute to open source software outside of their regular job responsibilities.**
+- 🌱 Additionally **I contribute to open-source software outside of regular job responsibilities.**
 
 - 👨‍💻 All of my projects are available at [https://sanchitdang.github.io/MyPortFolio/](https://sanchitdang.github.io/MyPortFolio/)
 
-- 💬 Ask me about **Android development with Java/Kotlin and Flutter.**
+- 💬 Ask me about **Software Development Engineer...**
 
 - 📫 How to reach me **work.sanchitdang@gmail.com**
 
