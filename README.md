@@ -4,7 +4,7 @@ Hi 👋 I'm Sanchit Dang, a Passionate Software Development Engineer.
 
 - 🔭 I’m currently working on **Riding App**
 - 🌱 Additionally **I contribute to open-source software outside of regular job responsibilities**
-- 👨‍💻 My portfolio is available [here](https://sanchitdang.github.io/MyPortFolio/)
+- 👨‍💻 My portfolio is available [here](https://sanchit-dang.web.app/)
 - 💬 Ask me about **Software Development Engineer**
 - 📫 How to reach me **work.sanchitdang@gmail.com**
  
